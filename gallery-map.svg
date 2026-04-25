@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-label="Maps">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#9ee493"/><stop offset="1" stop-color="#00d4ff"/></linearGradient>
+    <radialGradient id="r" cx="50%" cy="35%" r="80%"><stop stop-color="#00d4ff" stop-opacity=".26"/><stop offset="1" stop-color="#031420" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <rect width="1800" height="1100" fill="#031420"/>
+  <rect width="1800" height="1100" fill="url(#r)"/>
+  <circle cx="260" cy="170" r="220" fill="url(#g)" opacity=".14" filter="url(#blur)"/>
+  <circle cx="1500" cy="180" r="250" fill="url(#g)" opacity=".13" filter="url(#blur)"/>
+  <path d="M0 720 C210 650 370 825 620 730 S1030 630 1285 735 S1590 880 1800 750 V1100 H0Z" fill="url(#g)" opacity=".26"/>
+  <path d="M0 790 C250 715 430 900 720 800 S1120 705 1360 800 S1620 930 1800 820 V1100 H0Z" fill="#06263a" opacity=".92"/>
+  <g opacity=".18" stroke="#ffffff">
+    <path d="M120 230h1560M120 350h1560M120 470h1560M120 590h1560M120 710h1560"/>
+    <path d="M250 140v650M490 140v650M730 140v650M970 140v650M1210 140v650M1450 140v650"/>
+  </g>
+  <g fill="#ffffff" opacity=".50">
+    <circle cx="420" cy="330" r="6"/><circle cx="760" cy="505" r="5"/><circle cx="1050" cy="370" r="7"/><circle cx="1280" cy="565" r="5"/>
+  </g>
+  <rect x="95" y="92" width="1610" height="800" rx="48" fill="rgba(255,255,255,.045)" stroke="rgba(255,255,255,.18)"/>
+  <text x="135" y="238" font-family="Arial" font-size="36" fill="#9ee493" font-weight="800" letter-spacing="4">Gallery</text>
+  <text x="135" y="370" font-family="Arial" font-size="94" fill="#eefaff" font-weight="900">Maps</text>
+  <text x="135" y="455" font-family="Arial" font-size="40" fill="#b7d6e7">Replace with GIS or remote sensing output</text>
+</svg>

@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Work / Field / Presentation Photo 1",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-01.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 2",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-02.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 3",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-03.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 4",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-04.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 5",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-05.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 6",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-06.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 7",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-07.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 8",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-08.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 9",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-09.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 10",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-10.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 11",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-11.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "Work / Field / Presentation Photo 12",
+    "type": "Photo",
+    "image": "assets/gallery/work-photo-12.jpg",
+    "description": "Real work-gallery image from field, presentation, training, award, lab or professional activity collection."
+  },
+  {
+    "title": "1 Gironde oct",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-01.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "BVF MLD MHW 2024 1200dpi   Copy",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-02.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "BoB MHW Synthesis Zonal Map 1200dpi",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-03.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "CTD Vertical Profile 6Panel nature DepthM Q1(1)",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-04.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "IMTA Suitability",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-05.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "MHCIDC2016,24",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-06.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "Microplastic Object Detection Using Satelitte",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-07.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "OMZs Area 2025 & Seasonal  ",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-08.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "OMZs 2025",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-09.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "REHI&OHSA",
+    "type": "Research Output",
+    "image": "assets/paper-outputs/paper-output-10.jpg",
+    "description": "Research visualization / paper-output figure showing analytical, geospatial, oceanographic or environmental modelling work."
+  },
+  {
+    "title": "ARSET CERTIFICATE   Overview of SeaDAS  38",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-01-arset-certificate-overview-of-seadas-38.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "C11121727 Md.Amit Hasan",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-02-c11121727-md-amit-hasan.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "CCDB Scholarship 2025 Certificates, Md.Amit Hasan",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-03-ccdb-scholarship-2025-certificates-md-amit-hasan.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "CROCO Model Workshop,BMU",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-04-croco-model-workshop-bmu.png",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/certificates/certificate-04-thumb.jpg"
+  },
+  {
+    "title": "Certificate Course on Building Research Career for Early Career Professionals and Students, Nirmol BD",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-05-certificate-course-on-building-research-career-for-earl.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "Certificate of Radar Meteorology Lecture Series, SAMA",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-06-certificate-of-radar-meteorology-lecture-series-sama.jpg",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/certificates/certificate-06-thumb.jpg"
+  },
+  {
+    "title": "IOC Delft 3D Model,Md. Amit Hasan",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-07-ioc-delft-3d-model-md-amit-hasan.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "IOC EOFish 2025 Course certificate",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-08-ioc-eofish-2025-course-certificate.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "NMAI4OS 002,Md. Amit Hasan",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-09-nmai4os-002-md-amit-hasan.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  },
+  {
+    "title": "NOAMI (DSC 02) Md.Amit Hasan,DSC1003",
+    "type": "Certificate",
+    "file": "assets/certificates/certificate-10-noami-dsc-02-md-amit-hasan-dsc1003.pdf",
+    "description": "Training, workshop, scholarship or professional certification record.",
+    "image": "assets/feature-2.svg"
+  }
+]

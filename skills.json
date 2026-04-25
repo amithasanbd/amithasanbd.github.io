@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Python",
+    "level": 84,
+    "category": "Programming"
+  },
+  {
+    "name": "R",
+    "level": 78,
+    "category": "Programming"
+  },
+  {
+    "name": "MATLAB",
+    "level": 65,
+    "category": "Programming"
+  },
+  {
+    "name": "ArcGIS Pro / QGIS",
+    "level": 86,
+    "category": "GIS"
+  },
+  {
+    "name": "Google Earth Engine",
+    "level": 78,
+    "category": "Remote Sensing"
+  },
+  {
+    "name": "Power BI / Dashboards",
+    "level": 76,
+    "category": "Data Visualization"
+  },
+  {
+    "name": "Machine Learning",
+    "level": 72,
+    "category": "AI"
+  },
+  {
+    "name": "Digital Twin Ocean Direction",
+    "level": 62,
+    "category": "Emerging Focus"
+  }
+]

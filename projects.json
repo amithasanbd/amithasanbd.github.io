@@ -1,0 +1,115 @@
+[
+  {
+    "title": "M.Sc. Thesis: PFZs Monitoring & Fisheries Surveillance System using DTO Technology",
+    "group": "Digital Twin Ocean / Marine AI",
+    "categories": [
+      "all",
+      "marine-ai",
+      "dto",
+      "blue-economy"
+    ],
+    "image": "assets/project-dto.svg",
+    "description": "Building a concept-level monitoring and fisheries surveillance system using Digital Twin Ocean technology, satellite ocean variables, analytics, dashboard thinking and AI-supported decision workflows.",
+    "tools": [
+      "Digital Twin Ocean",
+      "Python",
+      "Remote Sensing",
+      "Dashboard",
+      "Fisheries Surveillance"
+    ],
+    "status": "M.Sc. thesis topic"
+  },
+  {
+    "title": "B.Sc. Thesis: Identification of Potential MPAs using MCDM",
+    "group": "GIS & Conservation Projects",
+    "categories": [
+      "all",
+      "gis",
+      "remote-sensing",
+      "blue-economy"
+    ],
+    "image": "assets/project-sundarbans.svg",
+    "description": "Identification of potential Marine Protected Areas in the coastal region of Bangladesh using a Multi-Criteria Decision Making approach.",
+    "tools": [
+      "MCDM",
+      "GIS",
+      "Marine Conservation",
+      "Spatial Analysis"
+    ],
+    "status": "B.Sc. thesis"
+  },
+  {
+    "title": "PFZ Modelling with Satellite Oceanographic Data",
+    "group": "Marine AI Projects",
+    "categories": [
+      "all",
+      "marine-ai",
+      "remote-sensing",
+      "blue-economy"
+    ],
+    "image": "assets/project-pfz.svg",
+    "description": "Climate-induced shifts in potential fishing zones using satellite-derived sea surface temperature, chlorophyll and oceanographic indicators with machine learning workflows.",
+    "tools": [
+      "Python",
+      "GIS",
+      "Remote Sensing",
+      "Machine Learning"
+    ],
+    "status": "Case study ready"
+  },
+  {
+    "title": "Marine Heatwave Analysis in the Bay of Bengal",
+    "group": "Climate and Marine Heatwave Projects",
+    "categories": [
+      "all",
+      "marine-ai",
+      "climate"
+    ],
+    "image": "assets/project-mhw.svg",
+    "description": "Trend analysis, anomaly detection and climate signal interpretation for marine heatwaves in coastal Bangladesh and the Bay of Bengal.",
+    "tools": [
+      "Python",
+      "R",
+      "Climate Data",
+      "Visualization"
+    ],
+    "status": "Research portfolio"
+  },
+  {
+    "title": "Water Quality and River Ecosystem Health Analytics",
+    "group": "Water Quality Projects",
+    "categories": [
+      "all",
+      "water-quality",
+      "gis"
+    ],
+    "image": "assets/project-water.svg",
+    "description": "Environmental data analytics, biochemical river health interpretation and geospatial visualization using Python, R, SPSS and ArcGIS Pro.",
+    "tools": [
+      "Python",
+      "R",
+      "SPSS",
+      "ArcGIS Pro"
+    ],
+    "status": "Published / ongoing"
+  },
+  {
+    "title": "Sundarbans Mangrove Ecosystem Health",
+    "group": "GIS and Conservation Projects",
+    "categories": [
+      "all",
+      "remote-sensing",
+      "gis",
+      "climate"
+    ],
+    "image": "assets/project-sundarbans.svg",
+    "description": "Mangrove ecosystem health assessment, restoration prioritization and Earth observation-based decision support for the Sundarbans.",
+    "tools": [
+      "Google Earth Engine",
+      "QGIS",
+      "ArcGIS Pro",
+      "Remote Sensing"
+    ],
+    "status": "Ongoing research"
+  }
+]
